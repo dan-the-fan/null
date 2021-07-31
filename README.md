@@ -1,2 +1,3 @@
 # null
-Probably nothing will happen here. This is just a simple repository where I will add some stuff.
+As it says on the name, it is nothing. I will rarely update this page, there will be almost nothing here. Also, if you ask me if there will be anything here, I would give a simple answer.
+![NO](NO.png)
