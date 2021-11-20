@@ -3,11 +3,11 @@
 Probably the most useless open-source project to ever exist
 
 ## FAQ
-Is there anything here?
-![NO](NO.png)
+Q - Is there anything here?
+A - NO.
 
-Will there be anything here?
-![NO](No.png)
+Q - Will there be anything here?
+A - NO.
 
-Can I do anything here?
-![NO](No.png)
+Q - Can I do anything here?
+A - NO.
